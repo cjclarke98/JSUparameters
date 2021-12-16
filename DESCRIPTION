@@ -1,0 +1,11 @@
+Package: JSUestimation
+Type: Package
+Title: Estimates the Parameters of the Best-Fitting JohnsonSU Distribution for a Given Dataset
+Version: 1.0.0
+Depends: R (>= 3.5.0)
+Author: C.J. Clarke [aut, cre], Andrew Smith [aut]
+Maintainer: C.J. Clarke <courtney.clarke@ucdconnect.ie>
+Description: Uses least squares optimisation to estimate the parameters of the best-fitting JohnsonSU distribution for a given dataset, with the possibility of the distributions corresponding to the limiting cases of the JohnsonSU distribution. This package has been created as an extension of my Master's thesis.
+License: GPL (>=3)
+Encoding: UTF-8
+LazyData: true
