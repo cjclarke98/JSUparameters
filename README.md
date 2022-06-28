@@ -1,5 +1,5 @@
 # Overview
-This repository contains the (upadted) R package I wrote as part of my research project for my M.Sc. in Data and Computational Science.
+This repository contains the (updated) R package I wrote as part of my research project for my M.Sc. in Data and Computational Science.
 
 The main function, `JSUparameters`, takes a dataset as input and returns the parameter estimates of the best-fitting Johnson SU distribution for the given dataset.
 
