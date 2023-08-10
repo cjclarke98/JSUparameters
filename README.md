@@ -5,6 +5,10 @@ The main function, `JSUparameters`, takes a dataset as input and returns the par
 
 # Installation
 ```
+# install directly from CRAN
+install.packages("JSUparameters")
+
+# install directly from GitHub
 library(devtools)
 install_github("cjclarke98/JSUparameters")
 ```
