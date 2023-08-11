@@ -9,10 +9,10 @@ tags:
 authors:
   - name: C.J. Clarke
     orcid: 0009-0004-7722-5686
-    affiliation: "1
+    affiliation: 1
 affiliations:
- - name: School of Mathematics and Statistics, University College Dublin, Ireland
-   index: 1
+  - name: School of Mathematics and Statistics, University College Dublin, Ireland
+    index: 1
 date: 11 August 2023
 bibliography: paper.bib
 ---
